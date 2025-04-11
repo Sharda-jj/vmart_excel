@@ -114,5 +114,5 @@ This project demonstrates the power of Excel as a business intelligence tool, pr
 
 ## Author - SHARDA JADHAV
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
+This project is part of my portfolio, showcasing the EXCEL skills essential for data analyst roles. 
 
